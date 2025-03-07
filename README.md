@@ -12,12 +12,12 @@
 
 
 ## ตัวอย่างผลลัพธ์จากการัน
-Task A started
-Task B started
-Task C started
-Task C completed after 1 seconds
-Task A completed after 2 seconds
-Task B completed after 3 seconds
-All tasks completed: ['Result from A', 'Result from B', 'Result from C']
-Total execution time: 3.0 seconds
+- Task A started
+- Task B started
+- Task C started
+- Task C completed after 1 seconds
+- Task A completed after 2 seconds
+- Task B completed after 3 seconds
+- All tasks completed: ['Result from A', 'Result from B', 'Result from C']
+- Total execution time: 3.0 seconds
 ## สังเกต: โปรแกรมใช้เวลาเพียง 3 วินาที (เร็วกว่า 2 + 3 + 1 = 6 วินาที ถ้ารันทีละตัว)
